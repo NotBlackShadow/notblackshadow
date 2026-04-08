@@ -10,8 +10,8 @@
   *Transforming creative visions into robust web solutions.*
   <br />
 
-  [![Website](https://img.shields.io/badge/Website-coming-soon-0a0a0a?style=for-the-badge&logo=globe&logoColor=D4AF37)](https://yangdev.top)
-  [![Email](https://img.shields.io/badge/Email-coming-soon-0a0a0a?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:hello@yangdev.top)
+  [![Website](https://img.shields.io/badge/Website-coming%20soon-0a0a0a?style=for-the-badge&logo=globe&logoColor=D4AF37)](#)
+  [![Email](https://img.shields.io/badge/Email-coming%20soon-0a0a0a?style=for-the-badge&logo=gmail&logoColor=D4AF37)](#)
   [![Telegram](https://img.shields.io/badge/Telegram-@notblackshadow-0a0a0a?style=for-the-badge&logo=telegram&logoColor=D4AF37)](https://t.me/notblackshadow)
   [![Discord](https://img.shields.io/badge/Discord-NotBlackShadow-0a0a0a?style=for-the-badge&logo=discord&logoColor=D4AF37)](https://discord.com/users/464394265573851145)
 </div>
@@ -108,10 +108,7 @@ Since 2021, I’ve been exploring the world of web development, turning ideas in
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotBlackShadow&show_icons=true&hide_border=true&bg_color=050505&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff" alt="YangDev's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotBlackShadow&layout=compact&hide_border=true&bg_color=050505&title_color=D4AF37&text_color=ffffff" alt="Top Languages" />
-</div>
+...
 
 ---
 
