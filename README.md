@@ -13,7 +13,7 @@
   [![Website](https://img.shields.io/badge/Website-yangdev.top-0a0a0a?style=for-the-badge&logo=globe&logoColor=D4AF37)](https://yangdev.top)
   [![Email](https://img.shields.io/badge/Email-hello@yangdev.top-0a0a0a?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:hello@yangdev.top)
   [![Telegram](https://img.shields.io/badge/Telegram-@notblackshadow-0a0a0a?style=for-the-badge&logo=telegram&logoColor=D4AF37)](https://t.me/notblackshadow)
-  [![Discord](https://img.shields.io/badge/Discord-YangDev-0a0a0a?style=for-the-badge&logo=discord&logoColor=D4AF37)](https://discord.com/users/464394265573851145)
+  [![Discord](https://img.shields.io/badge/Discord-NotBlackShadow-0a0a0a?style=for-the-badge&logo=discord&logoColor=D4AF37)](https://discord.com/users/464394265573851145)
 </div>
 
 ---
