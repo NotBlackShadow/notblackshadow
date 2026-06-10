@@ -92,6 +92,7 @@ Since 2021, I’ve been exploring the world of web development, turning ideas in
 
 ## 🌐 Community Roles
 
+- **Admin** @ [G2 Esports Italia](https://discord.gg/g2esports) - Managing in-person events, community initiatives, and official announcements for the G2 Esports Italy community.
 - **Staff** @ [Valorant Italia](https://discord.gg/valorantitalia) - Managing community events and moderation for the largest Italian Valorant community.
 - **Admin** @ [r/place (IT)](https://www.reddit.com/r/place/) - Coordinated pixel art strategy and defense for the Italian faction.
 - **Translator** @ [lawsuit.gg (MCCE)](https://lawsuit.gg) - Managing translators and handling English to Italian content translation.
