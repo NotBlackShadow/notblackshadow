@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-Hello, I'm **Turra**
+Hello, I'm **Sam**
 
 **Frontend Developer and Community Specialist with a strong dual background in web development and large-scale online community management.**
 
